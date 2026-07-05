@@ -1,2 +1,2 @@
-# healthcare-network-modernization
-Enterprise Small Healthcare Network builtwith OPNsense, Proxmox, Unifi &amp; Enterprise Best Practices.
+# Healthcare Network Modernization
+Enterprise-grade Small Healthcare Network built with OPNsense, Proxmox, Unifi and Enterprise Best Practices.
