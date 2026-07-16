@@ -12,16 +12,71 @@ Core technologies include OPNsense, Proxmox VE, UniFi networking, VLAN segmentat
 
 This repository documents every stage of the project, including architecture design, implementation, configuration, testing, troubleshooting, and final deployment.
 
+## Project Status
+
+**Status:** Active Development
+
+**Environment:** Home Lab → Production
+
+**Documentation Level:** Enterprise Infrastructure Documentation
+
+**Last Updated:** July 2026
+
 ## Objectives
+
+- Modernize the existing healthcare network infrastructure
+- Improve reliability and availability
+- Centralize network management
+- Implement enterprise virtualization
+- Enhance security
+- Standardize infrastructure documentation
 
 ## Hardware
 
+- Dell OptiPlex 3040 Micro
+- Protectli Firewall Appliance (planned)
+- UniFi Switch
+- UniFi Access Points
+- Xfinity ISP
+- AT&T Backup ISP
+
 ## Software Stack
 
+- Proxmox VE
+- Ubuntu Server 24.04 LTS
+- UniFi OS Server
+- UniFi Network Application
+- OPNsense (planned production deployment)
+  
 ## Network Topology
+
+Documetation in progress
 
 ## Project Phases
 
+- Project Planning
+- Infrastructure Deployment
+- Proxmox VE Deployment
+- Ubuntu Server Deployment
+- UniFi OS Server Deployment
+- UniFi Controller Migration
+- Infrastructure Migration
+- Production Validation
+
 ## Current Progress
+
+✅ Proxmox VE installed
+
+✅ Ubuntu Server deployed
+
+✅ UniFi OS Server installed
+
+✅ UniFi Network Application deployed
+
+🔄 Controller migration in progress
+
+⬜ OPNsense production deployment
+
+⬜ Final infrastructure migration
 
 ## License
