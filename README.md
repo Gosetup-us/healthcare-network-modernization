@@ -57,28 +57,30 @@ Documetation in progress
 ## Project Phases
 
 - Project Planning
-- Infrastructure Deployment
+- Infrastructure Design
 - Proxmox VE Deployment
 - Ubuntu Server Deployment
 - UniFi OS Server Deployment
 - UniFi Controller Migration
-- Infrastructure Migration
-- Production Validation
+- Infrastructure Validation
+- Production Infrastructure Migration
 
 ## Current Progress
 
-✅ Proxmox VE installed
+✅ Proxmox VE deployed
 
 ✅ Ubuntu Server deployed
 
-✅ UniFi OS Server installed
+✅ UniFi OS Server deployed
 
 ✅ UniFi Network Application deployed
 
-🔄 Controller migration in progress
+✅ UniFi Controller migration completed
+
+🔄 Infrastructure validation in progress
 
 ⬜ OPNsense production deployment
 
-⬜ Final infrastructure migration
+⬜ Final production migratio
 
 ## License
